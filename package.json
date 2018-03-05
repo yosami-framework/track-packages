@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Packages for track app.",
   "repository": "alfa-jpn/track-packages.git",
   "author": "alfa-jpn",
@@ -13,7 +13,7 @@
     "track-i18n": "0.0.2",
     "track-model": "0.0.4",
     "track-router": "0.0.2",
-    "track-server": "0.0.1",
+    "track-server": "0.0.2",
     "track-view": "0.0.3"
   }
 }
