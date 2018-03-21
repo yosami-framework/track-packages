@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Packages for track app.",
   "repository": "alfa-jpn/track-packages.git",
   "author": "alfa-jpn",
@@ -9,7 +9,7 @@
     "track-component": "0.0.7",
     "track-config": "0.0.3",
     "track-controller": "0.0.10",
-    "track-dsl": "0.0.3",
+    "track-dsl": "0.0.4",
     "track-eventor": "0.0.5",
     "track-helpers": "0.0.1",
     "track-i18n": "0.0.2",
