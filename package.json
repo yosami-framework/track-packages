@@ -1,14 +1,14 @@
 {
   "name": "track-packages",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Packages for track app.",
   "repository": "alfa-jpn/track-packages.git",
   "author": "alfa-jpn",
   "license": "ISC",
   "dependencies": {
-    "track-component": "0.0.10",
+    "track-component": "0.0.11",
     "track-config": "0.0.3",
-    "track-controller": "0.0.13",
+    "track-controller": "0.0.14",
     "track-dsl": "0.0.4",
     "track-eventor": "0.0.5",
     "track-helpers": "0.0.1",
