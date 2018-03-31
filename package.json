@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Packages for track app.",
   "repository": "alfa-jpn/track-packages.git",
   "author": "alfa-jpn",
@@ -16,7 +16,7 @@
     "track-model": "0.0.5",
     "track-router": "0.0.3",
     "track-server": "0.0.3",
-    "track-server-renderer": "0.0.5"
+    "track-server-renderer": "0.0.6"
   },
   "devDependencies": {
     "mithril": "^1.1.6"
