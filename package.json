@@ -1,23 +1,26 @@
 {
   "name": "track-packages",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "Packages for track app.",
-  "repository": "alfa-jpn/track-packages.git",
+  "repository": "yosami-framework/track-packages.git",
+  "scripts": {
+    "test": "npm install"
+  },
   "author": "alfa-jpn",
   "license": "ISC",
   "dependencies": {
-    "track-builder": "0.0.2",
-    "track-component": "0.0.13",
-    "track-config": "0.0.3",
-    "track-controller": "0.0.17",
-    "track-dsl": "0.0.4",
-    "track-eventor": "0.0.5",
-    "track-helpers": "0.0.3",
-    "track-i18n": "0.0.2",
-    "track-model": "0.0.5",
-    "track-router": "0.0.3",
-    "track-server": "0.0.3",
-    "track-server-renderer": "0.0.6"
+    "track-builder": "0.0.3",
+    "track-component": "0.0.15",
+    "track-config": "0.0.4",
+    "track-controller": "0.0.18",
+    "track-dsl": "0.0.5",
+    "track-eventor": "0.0.6",
+    "track-helpers": "0.0.4",
+    "track-i18n": "0.0.3",
+    "track-model": "0.0.6",
+    "track-router": "0.0.5",
+    "track-server": "0.0.4",
+    "track-server-renderer": "0.0.7"
   },
   "devDependencies": {
     "mithril": "^1.1.6"
