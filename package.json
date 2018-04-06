@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "description": "Packages for track app.",
   "repository": "yosami-framework/track-packages.git",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "track-builder": "0.0.5",
-    "track-component": "0.0.16",
+    "track-component": "0.0.17",
     "track-config": "0.0.4",
     "track-controller": "0.0.19",
     "track-dsl": "0.0.8",
