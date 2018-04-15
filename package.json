@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "description": "Packages for track app.",
   "repository": "yosami-framework/track-packages.git",
   "scripts": {
@@ -17,10 +17,10 @@
     "track-eventor": "0.0.6",
     "track-helpers": "0.0.5",
     "track-i18n": "0.0.4",
-    "track-model": "0.0.7",
+    "track-model": "0.0.8",
     "track-router": "0.0.6",
     "track-server": "0.0.5",
-    "track-server-renderer": "0.0.10"
+    "track-server-renderer": "0.0.11"
   },
   "devDependencies": {
     "mithril": "^1.1.6"
