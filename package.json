@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "description": "Packages for track app.",
   "repository": "yosami-framework/track-packages.git",
   "scripts": {
@@ -18,7 +18,7 @@
     "track-helpers": "0.0.5",
     "track-i18n": "0.0.4",
     "track-model": "0.0.8",
-    "track-router": "0.0.8",
+    "track-router": "0.0.9",
     "track-server": "0.0.5",
     "track-server-renderer": "0.0.11"
   },
