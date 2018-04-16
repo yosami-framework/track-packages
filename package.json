@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "description": "Packages for track app.",
   "repository": "yosami-framework/track-packages.git",
   "scripts": {
