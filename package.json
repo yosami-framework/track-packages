@@ -1,6 +1,6 @@
 {
   "name": "track-packages",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "description": "Packages for track app.",
   "repository": "yosami-framework/track-packages.git",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "alfa-jpn",
   "license": "ISC",
   "dependencies": {
-    "track-builder": "0.0.9",
+    "track-builder": "0.0.10",
     "track-component": "0.0.18",
     "track-config": "0.0.6",
     "track-controller": "0.0.21",
@@ -19,7 +19,7 @@
     "track-i18n": "0.0.4",
     "track-model": "0.0.8",
     "track-router": "0.0.9",
-    "track-server": "0.0.5",
+    "track-server": "0.0.6",
     "track-server-renderer": "0.0.11"
   },
   "devDependencies": {
